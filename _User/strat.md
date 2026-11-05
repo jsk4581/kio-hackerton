@@ -51,3 +51,9 @@ mattpocock / skills
 
 - codex queue --thread &lt;세션 UUID 또는 이름&gt; --message
 - codex agents
+
+
+
+---
+
+세션, 쿠키, IDOR, CSRF, CORS, unittest
